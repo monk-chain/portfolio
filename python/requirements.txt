@@ -1,6 +1,11 @@
 numpy
 pandas
 requests
+flask
+line-bot-sdk
 Django==2.0.4
 uwsgi==2.0.17
 PyMySQL==0.8.0
+python-dotenv
+django-environ
+prettyprinter

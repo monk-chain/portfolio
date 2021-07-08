@@ -1,1 +1,4 @@
 mysql/
+*.env
+env.*
+*.log
